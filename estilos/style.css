@@ -23,3 +23,7 @@ font-style: initial;
 background-color: rgba(221, 73, 15, 0.733);
 text-align: center;
 }
+
+img.lado {
+    float: right;
+}
